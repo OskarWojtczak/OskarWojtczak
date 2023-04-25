@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Hardhat**
 
-- 👯 I’m looking to collaborate on **Everything**
-
 - 👨‍💻 All of my projects are available at [https://www.oskarwojtczak.com/](https://www.oskarwojtczak.com/)
 
 - 📫 How to reach me **oskarwojtczak@gmail.com**
