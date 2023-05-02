@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Full Stack Web3 development](https://github.com/OskarWojtczak/hardhat-fund-me)
 
-- 🌱 I’m currently learning **Hardhat**
+- 🌱 I’m currently learning **Full Stack Web3**
 
 - 👨‍💻 All of my projects are available at [https://www.oskarwojtczak.com/](https://www.oskarwojtczak.com/)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.oskarwojtczak.com/copy-of-cv](https://www.oskarwojtczak.com/copy-of-cv)
 
-- ⚡ Fun fact **In the average lifetime, a person will walk the equivalent of 5 times around the equator.**
+- ⚡ Fun fact: **In the average lifetime, a person will walk the equivalent of 5 times around the equator.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
